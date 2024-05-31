@@ -35,6 +35,7 @@ test_navigate_to_fillings_section - проверяет, что при клике
 
 locators.py - файл с локаторами элементов.
 conftest.py - файл с фикстурой для драйвера.
+data.py - файл с тестовыми данными
 test_registration.py - файл с тестами регистрации.
 test_login.py - файл с тестами входа.
 test_navigation.py - файл с тестами навигации.
