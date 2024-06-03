@@ -1,0 +1,5 @@
+BASE_URL = "https://stellarburgers.nomoreparties.site/"
+TEST_USER_EMAIL = "test_user_1999@yandex.ru"
+TEST_USER_PASSWORD = "securepassword"
+INVALID_PASSWORD = "short"
+NEW_USER_NAME = "Test User"
